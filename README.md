@@ -80,7 +80,7 @@ accuracy (percentage of correct responses) and time spent to complete the task. 
 - **Challenge 5 - Pulse Estimation:** the pulse is highly related to the emotional state and stress level of the students. In this challenge, we propose to estimate the pulse from the smartwatch using the front camera. Alternatively, the IR cameras can be used to analyse the potential of these sensors. **Target:** pulse of the student. **Basic Input:** front webcam video. **Advanced Input:** IR cameras. [[Download Challenge 5](http://)]
 
 
-# Download
+# Instructions for Downloading edBB
 
 The information is available at the following links:
 
