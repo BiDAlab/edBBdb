@@ -82,7 +82,21 @@ accuracy (percentage of correct responses) and time spent to complete the task. 
 
 # Instructions for Downloading edBB
 
-The information is available at the following links:
+1) [Download license agreement](http://atvs.ii.uam.es/atvs/files/edBB_License_Agreement.pdf), send by email one signed and scanned copy to **atvs@uam.es** according to the instructions given in point 2.
+
+2) Send an email to **atvs@uam.es**, as follows:
+
+   *Subject:* **[DATABASE: edBB]**
+
+   Body: Your name, e-mail, telephone number, organization, postal mail, purpose for which you will use the database, time and date at which you sent the email with the signed      license agreement.
+
+3) Once the email copy of the license agreement has been received at ATVS, you will receive an email with a username, a password, and a time slot to download the database.
+
+4) [Download the benchmark](http://atvs.ii.uam.es/atvs/intranet/free_DB/edBB/), for which you will need to provide the authentication information given in step 4. After you finish the download, please notify by email to **atvs@uam.es** that you have successfully completed the transaction.
+
+5) For more information, please contact: **atvs@uam.es**
+ [//]: <> ( 
+ The information is available at the following links:
 
 - **The initial subset of the full database** [[link](http://)]. 
 
@@ -95,7 +109,7 @@ The information is available at the following links:
 - **Challenge 4.** Input data and processed data [[link](http://)].  [[TXT file](http://)] includes information about the challenge and the target proposed.
 
 - **Challenge 5.** Input data and processed data [[link](http://)].  [[TXT file](http://)] includes information about the challenge and the target proposed.
-
+)
 
 
 
