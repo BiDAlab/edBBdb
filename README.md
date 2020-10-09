@@ -95,7 +95,7 @@ accuracy (percentage of correct responses) and time spent to complete the task. 
 4) [Download the benchmark](http://atvs.ii.uam.es/atvs/intranet/free_DB/edBB/), for which you will need to provide the authentication information given in step 4. After you finish the download, please notify by email to **atvs@uam.es** that you have successfully completed the transaction.
 
 5) For more information, please contact: **atvs@uam.es**
- [comment]: <> ( 
+ [//]: # ( 
  The information is available at the following links:
 
 - **The initial subset of the full database** [[link](http://)]. 
