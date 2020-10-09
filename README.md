@@ -64,20 +64,20 @@ target from the input data.
 **The 5 challenges proposed in this work are:** 
 
 - **Challenge 1 - Attention Estimation:** an estimation of the attention level of the students during the execution of e-learning tasks is a very valuable resource. We propose to estimate the band signals (level of attention) from patterns captured from the basic sensors. The head pose and gaze estimation from the webcam, together with the mouse and keystroke dynamics can be used to predict attention of the students. **Target:** attention level obtained from the band signals. **Input:** front webcam video, mouse, and keystroke
-sequences. [[Download Challenge 1](http://)]
+sequences. 
 
-- **Challenge 2 - Anomalous Behavior Detection:** the detection of non-allowed behaviors during the execution of evaluation tasks is an important challenge necessary to improve the trustworthiness in e-learning platforms. Ten users were instructed to perform non-allowed activities during the execution of the tasks. These activities comprise the use of material/resources with the correct responses to the questions. We propose the use of a smartphone as a non-allowed resource. These users try to hide the smartphone in their pockets. These events are labelled with a timestamp that identify the exact period when cheating really occurred.. We propose to use the basic sensors to detect these events. **Target:** detection of nonallowed events. **Input:** front webcam video, microphone, mouse, and keystroke dynamics. [[Download Challenge 2](http://)]
+- **Challenge 2 - Anomalous Behavior Detection:** the detection of non-allowed behaviors during the execution of evaluation tasks is an important challenge necessary to improve the trustworthiness in e-learning platforms. Ten users were instructed to perform non-allowed activities during the execution of the tasks. These activities comprise the use of material/resources with the correct responses to the questions. We propose the use of a smartphone as a non-allowed resource. These users try to hide the smartphone in their pockets. These events are labelled with a timestamp that identify the exact period when cheating really occurred.. We propose to use the basic sensors to detect these events. **Target:** detection of nonallowed events. **Input:** front webcam video, microphone, mouse, and keystroke dynamics. 
 <br/><br/>The following image shows an example of this challenge:
 
 
 <p align="center"><img src="http://atvs.ii.uam.es/atvs/github/CHALLENGE.png"></p>
 
 - **Challenge 3 - Performance Prediction:** each task is evaluated and the performance is measured in terms of
-accuracy (percentage of correct responses) and time spent to complete the task. We propose to estimate the performance of the student using both basic and advance sensors. **Target:** accuracy. **Basic Input:** front webcam video, mouse, and keystroke. **Advanced Input:** basic sensors plus pulse and EEC band signals. [[Download Challenge 3](http://)]
+accuracy (percentage of correct responses) and time spent to complete the task. We propose to estimate the performance of the student using both basic and advance sensors. **Target:** accuracy. **Basic Input:** front webcam video, mouse, and keystroke. **Advanced Input:** basic sensors plus pulse and EEC band signals. 
 
-- **Challenge 4 - User Authentication:** student authentication is a critical step in a e-learning platforms. All users complete the same tasks, including the enrollment form that contains personal data. Data is anonymized but an ID number is provided to identify data from each user. The dataset is rich in biometric patterns useful for authentication (face, keystroke, mouse). **Target:** identity of the student. **Basic Input:** front webcam video, mouse, and keystroke dynamics. **Advanced Input:** IR cameras, smartwatch sensors, EEG band. [[Download Challenge 4](http://)]
+- **Challenge 4 - User Authentication:** student authentication is a critical step in a e-learning platforms. All users complete the same tasks, including the enrollment form that contains personal data. Data is anonymized but an ID number is provided to identify data from each user. The dataset is rich in biometric patterns useful for authentication (face, keystroke, mouse). **Target:** identity of the student. **Basic Input:** front webcam video, mouse, and keystroke dynamics. **Advanced Input:** IR cameras, smartwatch sensors, EEG band. 
 
-- **Challenge 5 - Pulse Estimation:** the pulse is highly related to the emotional state and stress level of the students. In this challenge, we propose to estimate the pulse from the smartwatch using the front camera. Alternatively, the IR cameras can be used to analyse the potential of these sensors. **Target:** pulse of the student. **Basic Input:** front webcam video. **Advanced Input:** IR cameras. [[Download Challenge 5](http://)]
+- **Challenge 5 - Pulse Estimation:** the pulse is highly related to the emotional state and stress level of the students. In this challenge, we propose to estimate the pulse from the smartwatch using the front camera. Alternatively, the IR cameras can be used to analyse the potential of these sensors. **Target:** pulse of the student. **Basic Input:** front webcam video. **Advanced Input:** IR cameras. 
 
 
 # Instructions for Downloading edBB
@@ -95,23 +95,6 @@ accuracy (percentage of correct responses) and time spent to complete the task. 
 4) [Download the benchmark](http://atvs.ii.uam.es/atvs/intranet/free_DB/edBB/), for which you will need to provide the authentication information given in step 4. After you finish the download, please notify by email to **atvs@uam.es** that you have successfully completed the transaction.
 
 5) For more information, please contact: **atvs@uam.es**
- 
- <! --- The information is available at the following links: --->
-
-- **The initial subset of the full database** [[link](http://)]. 
-
-- **Challenge 1.** Input data and processed data [[link](http://)].  [[TXT file](http://)] includes information about the challenge and the target proposed.
-
-- **Challenge 2.** Input data and processed data [[link](http://)].  [[TXT file](http://)] includes information about the challenge and the target proposed.
-
-- **Challenge 3.** Input data and processed data [[link](http://)].  [[TXT file](http://)] includes information about the challenge and the target proposed.
-
-- **Challenge 4.** Input data and processed data [[link](http://)].  [[TXT file](http://)] includes information about the challenge and the target proposed.
-
-- **Challenge 5.** Input data and processed data [[link](http://)].  [[TXT file](http://)] includes information about the challenge and the target proposed.
---->
-
-
 
 
 # License
