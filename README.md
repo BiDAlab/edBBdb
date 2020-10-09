@@ -96,7 +96,7 @@ accuracy (percentage of correct responses) and time spent to complete the task. 
 
 5) For more information, please contact: **atvs@uam.es**
  
- <! ---The information is available at the following links: --->
+ <! --- The information is available at the following links: --->
 
 - **The initial subset of the full database** [[link](http://)]. 
 
