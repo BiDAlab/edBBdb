@@ -45,7 +45,7 @@ The questions are selected from popular riddles and they present different level
 # Database and Challenges
 
 The initial subset of the full database that is released with the present paper is composed by 20 users captured under controlled laboratory conditions during one session. The enrollment form includes demographic information from the user (age, gender, right-handed or left-handed). Additionally, we provide the performance (accuracy and time) achieved by each user in each specific task. Together with
-the raw data obtained from the sensors, the database includes information processed to better understand and model the student behavior. This information is obtained using stateof-the-art algorithms:
+the raw data obtained from the sensors, the database includes information processed to better understand and model the student behavior. This information is obtained using state-of-the-art algorithms:
 
 - **Head Pose:** head pose (pitch, roll, and yaw) is estimated from the frontal webcam using the algorithm proposed in [2].
 
