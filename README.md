@@ -1,7 +1,7 @@
 ![Sin titulo](http://atvs.ii.uam.es/atvs/github/new_edBB_logo.png)
 ***
 # About
-We present a platform [1] for student monitoring in remote education consisting of a collection of sensors and software that capture biometric and behavioral data. We define a collection of tasks to acquire behavioral data that can be useful for facing the existing challenges in automatic student monitoring during remote evaluation. Additionally, we release an initial database including data from 20 different users completing these tasks with a set of **basic sensors:** webcam, microphone, mouse, and keyboard; and also from more **advanced sensors:** NIR camera, smartwatch, additional RGB cameras, and an EEG band. Information from the computer (e.g. system logs, MAC, IP, or web browsing history) is  also stored. **This information is avalible on this web [[Download Database](#instructions-for-downloading-edBB)].**
+We present a platform [1] for student monitoring in remote education consisting of a collection of sensors and software that capture biometric and behavioral data. We define a collection of tasks to acquire behavioral data that can be useful for facing the existing challenges in automatic student monitoring during remote evaluation. Additionally, we release an initial database including data from 38 different users completing these tasks with a set of **basic sensors:** webcam, microphone, mouse, and keyboard; and also from more **advanced sensors:** NIR camera, smartwatch, additional RGB cameras, and an EEG band. Information from the computer (e.g. system logs, MAC, IP, or web browsing history) is  also stored. **This information is avalible on this web [[Download Database](#instructions-for-downloading-edBB)].**
 
 The following table shows the sensors and the information captured:
 
@@ -44,7 +44,7 @@ The questions are selected from popular riddles and they present different level
 
 # Database and Challenges
 
-The initial subset of the full database that is released with the present paper is composed by 20 users captured under controlled laboratory conditions during one session. The enrollment form includes demographic information from the user (age, gender, right-handed or left-handed). Additionally, we provide the performance (accuracy and time) achieved by each user in each specific task. Together with
+The initial subset of the full database that is released with the present paper is composed by 38 users captured under controlled laboratory conditions during one session. The enrollment form includes demographic information from the user (age, gender, right-handed or left-handed). Additionally, we provide the performance (accuracy and time) achieved by each user in each specific task. Together with
 the raw data obtained from the sensors, the database includes information processed to better understand and model the student behavior. This information is obtained using state-of-the-art algorithms:
 
 - **Head Pose:** head pose (pitch, roll, and yaw) is estimated from the frontal webcam using the algorithm proposed in [2].
