@@ -81,7 +81,7 @@ accuracy (percentage of correct responses) and time spent to complete the task. 
 
 # Instructions for Downloading edBB
 
-1) [Download license agreement](http://atvs.ii.uam.es/atvs/files/edBB_License_Agreement.pdf), send by email one signed and scanned copy to **atvs@uam.es** according to the instructions given in point 2.
+1) [Download license agreement](https://bidalab.eps.uam.es/static/licenses/edBB_License_Agreement.pdf), send by email one signed and scanned copy to **atvs@uam.es** according to the instructions given in point 2.
 
 2) Send an email to **atvs@uam.es**, as follows:
 
@@ -91,7 +91,7 @@ accuracy (percentage of correct responses) and time spent to complete the task. 
 
 3) Once the email copy of the license agreement has been received at ATVS, you will receive an email with a username, a password, and a time slot to download the database.
 
-4) [Download the database](http://atvs.ii.uam.es/atvs/intranet/free_DB/edBB/), for which you will need to provide the authentication information given in step 4. After you finish the download, please notify by email to **atvs@uam.es** that you have successfully completed the transaction.
+4) [Download the database](https://bidalab.eps.uam.es/listdatabases?id=edBB#page), for which you will need to provide the authentication information given in step 4. After you finish the download, please notify by email to **atvs@uam.es** that you have successfully completed the transaction.
 
 5) For more information, please contact: **atvs@uam.es**
 
