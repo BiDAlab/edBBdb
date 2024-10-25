@@ -1,11 +1,11 @@
-![Sin titulo](http://atvs.ii.uam.es/atvs/github/new_edBB_logo.png)
+![Sin titulo](/imgs/new_edBB_logo.png)
 ***
 # About
 We present a platform [1] for student monitoring in remote education consisting of a collection of sensors and software that capture biometric and behavioral data. We define a collection of tasks to acquire behavioral data that can be useful for facing the existing challenges in automatic student monitoring during remote evaluation. Additionally, we release an initial database including data from 38 different users completing these tasks with a set of **basic sensors:** webcam, microphone, mouse, and keyboard; and also from more **advanced sensors:** NIR camera, smartwatch, additional RGB cameras, and an EEG band. Information from the computer (e.g. system logs, MAC, IP, or web browsing history) is  also stored. **This information is avalible on this web [[Download Database](#instructions-for-downloading-edBB)].**
 
 The following table shows the sensors and the information captured:
 
-![Sin titulo](http://atvs.ii.uam.es/atvs/github/tabla.jpg)
+![Sin titulo](/imgs/tabla.jpg)
 
 
 During each acquisition session each user completed three different types of tasks generating data of different nature: mouse and
@@ -55,7 +55,7 @@ the raw data obtained from the sensors, the database includes information proces
 
 Next figure shows an example of the information captured during the execution of the tasks:
 
-![Sin titulo ](http://atvs.ii.uam.es/atvs/github/imagen_articulo.jpg)
+![Sin titulo ](/imgs/imagen_articulo.jpg)
 
 We have designed an acquisition protocol incorporating all sensors presented in the previous sections.Some of the sensors are used to capture the groundtruth for the different challenges proposed. **We propose 5 challenges related to the monitorization of different behaviors relevant for e-learning platforms.**
 
@@ -69,7 +69,7 @@ target from the input data.
 <br/><br/>The following image shows an example of this challenge:
 
 
-<p align="center"><img src="http://atvs.ii.uam.es/atvs/github/CHALLENGE.png"></p>
+<p align="center"><img src="/imgs/CHALLENGE.png"></p>
 
 - **Challenge 3 - Performance Prediction:** each task is evaluated and the performance is measured in terms of
 accuracy (percentage of correct responses) and time spent to complete the task. We propose to estimate the performance of the student using both basic and advance sensors. **Target:** accuracy. **Basic Input:** front webcam video, mouse, and keystroke. **Advanced Input:** basic sensors plus pulse and EEC band signals. 
