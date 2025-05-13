@@ -50,6 +50,10 @@ The initial subset of the full database that is released with the present paper 
 
 <div align="center">
 
+<h3 align="center">Distribution of Learners by Medical Conditions, Gender, and Handedness</h3>
+
+<div align="center">
+
 <table>
   <thead>
     <tr>
@@ -66,6 +70,8 @@ The initial subset of the full database that is released with the present paper 
     <tr><td></td><td>Heart condition</td><td>---</td><td>1</td><td>---</td></tr>
     <tr><td></td><td>Colour-blind</td><td>---</td><td>1</td><td>---</td></tr>
     <tr><td></td><td>Hypertension</td><td>---</td><td>1</td><td>---</td></tr>
+    <tr><td>Handedness</td><td>Right-handed</td><td>76.32%</td><td>29</td><td>---</td></tr>
+    <tr><td></td><td>Left-handed</td><td>23.68%</td><td>9</td><td>---</td></tr>
     <tr><td>Overall Averages</td><td>Overall Average Age</td><td>---</td><td>---</td><td>24.8158</td></tr>
     <tr><td></td><td>Average Age of Male Learners</td><td>81.58%</td><td>31</td><td>25.0645</td></tr>
     <tr><td></td><td>Average Age of Female Learners</td><td>18.42%</td><td>7</td><td>23.7143</td></tr>
@@ -76,6 +82,7 @@ The initial subset of the full database that is released with the present paper 
 <p><em><center>Note: Percentages for medical conditions are not shown because learners may have more than one condition.</center></em></p>
 
 </div>
+
 
 
 
