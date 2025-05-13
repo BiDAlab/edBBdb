@@ -44,7 +44,42 @@ The questions are selected from popular riddles and they present different level
 
 # Database and Challenges
 
-The initial subset of the full database that is released with the present paper is composed by 38 users captured under controlled laboratory conditions during one session. The enrollment form includes demographic information from the user (age, gender, right-handed or left-handed). Additionally, we provide the performance (accuracy and time) achieved by each user in each specific task. Together with
+The initial subset of the full database that is released with the present paper is composed by 38 users captured under controlled laboratory conditions during one session. The enrollment form includes demographic information from the user (age, gender, right-handed or left-handed). The demographic distribution of the learners is summarised in the following table.
+
+<h3 align="center">Distribution of Learners by Medical Conditions and Gender</h3>
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Subcategory</th>
+      <th>Percentage</th>
+      <th>Number of Learners</th>
+      <th>Average Age</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Medical Conditions</td><td>No issues</td><td>---</td><td>34</td><td>---</td></tr>
+    <tr><td></td><td>Heart murmur</td><td>---</td><td>1</td><td>---</td></tr>
+    <tr><td></td><td>Heart condition</td><td>---</td><td>1</td><td>---</td></tr>
+    <tr><td></td><td>Colour-blind</td><td>---</td><td>1</td><td>---</td></tr>
+    <tr><td></td><td>Hypertension</td><td>---</td><td>1</td><td>---</td></tr>
+    <tr><td>Overall Averages</td><td>Overall Average Age</td><td>---</td><td>---</td><td>24.8158</td></tr>
+    <tr><td></td><td>Average Age of Male Learners</td><td>81.58%</td><td>31</td><td>25.0645</td></tr>
+    <tr><td></td><td>Average Age of Female Learners</td><td>18.42%</td><td>7</td><td>23.7143</td></tr>
+    <tr><td></td><td>Age Range</td><td>---</td><td>---</td><td>38–21</td></tr>
+  </tbody>
+</table>
+
+<p><em><center>Note: Percentages for medical conditions are not shown because learners may have more than one condition.</center></em></p>
+
+</div>
+
+
+
+Additionally, we provide the performance (accuracy and time) achieved by each user in each specific task. Together with
 the raw data obtained from the sensors, the database includes information processed to better understand and model the student behavior. This information is obtained using state-of-the-art algorithms:
 
 - **Head Pose:** head pose (pitch, roll, and yaw) is estimated from the frontal webcam using the algorithm proposed in [2].
@@ -76,7 +111,10 @@ accuracy (percentage of correct responses) and time spent to complete the task. 
 
 - **Challenge 4 - User Authentication:** student authentication is a critical step in a e-learning platforms. All users complete the same tasks, including the enrollment form that contains personal data. Data is anonymized but an ID number is provided to identify data from each user. The dataset is rich in biometric patterns useful for authentication (face, keystroke, mouse). **Target:** identity of the student. **Basic Input:** front webcam video, mouse, and keystroke dynamics. **Advanced Input:** IR cameras, smartwatch sensors, EEG band. 
 
-- **Challenge 5 - Pulse Estimation:** the pulse is highly related to the emotional state and stress level of the students. In this challenge, we propose to estimate the pulse from the smartwatch using the front camera. Alternatively, the IR cameras can be used to analyse the potential of these sensors. We have published a paper where an example of this challenge appears [6]. **Target:** pulse of the student. **Basic Input:** front webcam video. **Advanced Input:** IR cameras. 
+- **Challenge 5 - Pulse Estimation:** the pulse is highly related to the emotional state and stress level of the students. In this challenge, we propose to estimate the pulse from the smartwatch using the front camera. Alternatively, the IR cameras can be used to analyse the potential of these sensors. We have published a paper where an example of this challenge appears [6]. **Target:** pulse of the student. **Basic Input:** front webcam video. **Advanced Input:** IR cameras.
+- 
+
+
 
 
 # Instructions for Downloading edBB
