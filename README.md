@@ -46,9 +46,7 @@ The questions are selected from popular riddles and they present different level
 
 The initial subset of the full database that is released with the present paper is composed by 38 users captured under controlled laboratory conditions during one session. The enrollment form includes demographic information from the user (age, gender, right-handed or left-handed). The demographic distribution of the learners is summarised in the following table.
 
-<h3 align="center">Distribution of Learners by Medical Conditions and Gender</h3>
 
-<div align="center">
 
 <h3 align="center">Distribution of Learners by Medical Conditions, Gender, and Handedness</h3>
 
